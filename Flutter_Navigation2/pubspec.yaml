@@ -66,7 +66,7 @@ flutter:
     - assets/images/latte.png
     - assets/images/macchiato.png
     - assets/images/mocha.png
-    - assets/images/sample.jpg
+
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
